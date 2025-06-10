@@ -1,0 +1,2 @@
+python-telegram-bot>=13.0,<21.0
+# Add other libraries your bot requires

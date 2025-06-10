@@ -1,2 +1,19 @@
 python-telegram-bot>=13.0,<21.0
-# Add other libraries your bot requires
+
+Flask~=2.3.2
+setuptools~=63.2.0
+pip~=22.2.2
+configparser~=7.2.0
+attr~=0.3.2
+HTMLParser~=0.0.2
+cryptography~=45.0.3
+docutils~=0.21.2
+filelock~=3.18.0
+redis~=6.2.0
+typing_extensions~=4.14.0
+MarkupSafe~=3.0.2
+Werkzeug~=3.1.3
+click~=8.2.1
+Jinja2~=3.1.6
+blinker~=1.9.0
+itsdangerous~=2.2.0
